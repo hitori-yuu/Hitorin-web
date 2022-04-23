@@ -133,6 +133,7 @@
     font-size: 18px;
 }
 .command-box input:checked ~ .info {
+	box-shadow: 0 0 2px #507ea4;
     padding: 10px 0;
     height: auto;
     opacity: 1;
