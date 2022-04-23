@@ -20,6 +20,7 @@
 }
 a {
     color: #b94047;
+    text-decoration: none;
 }
 a:hover {
     opacity: 65%;
